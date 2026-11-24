@@ -1,5 +1,5 @@
 # Employee-Data-Display-using-Python
-# Experiment 1
+# Experiment 1.A
 
 ## Aim
 
